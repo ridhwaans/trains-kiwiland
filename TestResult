@@ -1,0 +1,68 @@
+
+Setup for test complete.
+TestUnit1: The distance of the route A-B-C, EXPECTED result is:9
+
+Got ACTUAL distance of the route A-B-C, 9
+TestUnit1: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit2: The distance of the route A-D, EXPECTED result is:5
+
+Got ACTUAL distance of the route A-D, 5
+TestUnit2: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit3: The distance of the route A-D-C, EXPECTED result is:13
+
+Got ACTUAL distance of the route A-D-C, 13
+TestUnit3: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit4: The distance of the route A-E-B-C-D, EXPECTED result is:22
+
+Got ACTUAL distance of the route A-E-B-C-D, 22
+TestUnit4: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit5: The distance of the route A-E-D, EXPECTED result is:0
+No such route
+Test complete.
+
+Setup for test complete.
+TestUnit6: The number of trips starting at C and ending at C with a maximum of 3 stops, EXPECTED result is:2
+
+Got ACTUAL number of trips C-C is 2
+TestUnit6: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit7: The number of trips starting at A and ending at C with exactly 4 stops, EXPECTED result is:3
+
+Got ACTUAL number of trips A-C is 3
+TestUnit7: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit8: The length of the shortest route (in terms of distance to travel) from A to C EXPECTED result is:9
+
+Got ACTUAL Length of shortest route A to C 9
+TestUnit8: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit9: The length of the shortest route (in terms of distance to travel) from B to B EXPECTED result is:9
+
+Got ACTUAL Length of shortest route B to B 9
+TestUnit9: completed successfully.
+Test complete.
+
+Setup for test complete.
+TestUnit10: The number of different routes from C to C with a distance of less than 30 EXPECTED result is:7
+
+Got ACTUAL  number of different routes from C to C <30 is 7
+TestUnit10: completed successfully.
+Test complete.
